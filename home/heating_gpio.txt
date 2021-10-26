@@ -1,0 +1,1 @@
+GPIO 26: level=0 fsel=1 func=OUTPUT
